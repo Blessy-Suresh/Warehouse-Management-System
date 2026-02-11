@@ -67,6 +67,7 @@ com.kce.warehouse
 
 <img width="808" height="685" alt="image" src="https://github.com/user-attachments/assets/e1f93780-cc9e-446d-b299-d8349c58626e" />
 
+
 <img width="656" height="357" alt="image" src="https://github.com/user-attachments/assets/b5e16fcc-39c2-4c92-bde8-83b10ccf180c" />
 
 
