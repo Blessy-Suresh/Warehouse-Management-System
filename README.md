@@ -16,7 +16,7 @@ The project follows a clean layered structure using:
 * **Exception Handling**
 * **Main (Client Layer)**
 
----
+
 **Project Architecture**
 
 ```
@@ -58,4 +58,18 @@ com.kce.warehouse
 * Custom Exception Handling
 * Layered Architecture
 * Console-based menu-driven system
+
+<img width="802" height="757" alt="image" src="https://github.com/user-attachments/assets/08851a8e-cdce-48e1-82bb-96bf56ee4040" />
+
+<img width="815" height="696" alt="image" src="https://github.com/user-attachments/assets/210d976a-9f89-4ec1-9d01-65b8ca17f8b0" />
+
+<img width="717" height="668" alt="image" src="https://github.com/user-attachments/assets/80231442-a5d6-41ad-85b1-f4453bf14b59" />
+
+<img width="808" height="685" alt="image" src="https://github.com/user-attachments/assets/e1f93780-cc9e-446d-b299-d8349c58626e" />
+
+<img width="656" height="357" alt="image" src="https://github.com/user-attachments/assets/b5e16fcc-39c2-4c92-bde8-83b10ccf180c" />
+
+
+
+
 
